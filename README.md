@@ -1,4 +1,3 @@
-# hello-world
-Just an other repository.
+# machine learning
 
-Holare Ho.
+This repository contains some of my training I did in machine learning.
